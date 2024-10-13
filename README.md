@@ -6,7 +6,7 @@ Welcome to the **Awesome LLM Jailbreak** repository! This project curates a list
 
 ## Daily Updates
 
-### 2024-10-12
+### 2024-10-13
 
 ### 1. [Localizing Factual Inconsistencies in Attributable Text Generation](https://arxiv.org/pdf/2410.07473)
 
@@ -248,4 +248,4 @@ Welcome to the **Awesome LLM Jailbreak** repository! This project curates a list
 
 ---
 
-*Last updated on 2024-10-12*
+*Last updated on 2024-10-13*
